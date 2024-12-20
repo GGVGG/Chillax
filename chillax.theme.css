@@ -61,7 +61,7 @@
 
 /*window*/ /*light mode*/
 :root.theme-light {
-    --window-margin: 20px; /*must be above 20px*/
+    --window-margin: 0px; /*must be above 20px*/
     --window-colour: rgba(255, 255, 255, 0.6);
     --window-blur: 5px;
     --window-border-radius: 10px;
